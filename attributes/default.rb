@@ -1,1 +1,1 @@
-default["df_couchbase"]["source"] = "file:///vagrant/binaries/couchbase-server-community_2.2.0_x86_64.rpm"
+default["df_couchbase"]["source"] = "/vagrant/binaries/couchbase-server-community_2.2.0_x86_64.rpm"

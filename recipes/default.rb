@@ -13,6 +13,4 @@ package "couchbase" do
   action :install
 end
 
-service "couchbase" do 
-	action [:enable, :start]
-end
+
